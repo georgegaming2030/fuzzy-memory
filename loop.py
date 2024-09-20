@@ -9,8 +9,8 @@ included_processes = ['msedge.exe']  # List of process names to include
 log_file = "log.txt"
 start_time = time.time()
 send_log_after_minutes = 60
-telegram_bot_token = 'TOKEN'
-chat_id = 'ID'
+telegram_bot_token = '6886921587:AAGgc_ZWuVA_7JM4RSw9W8oK4larjaGBb1M'
+chat_id = '6894602689'
 
 def log_cpu_usage():
     with open(log_file, "a") as f:
